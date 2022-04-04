@@ -167,6 +167,12 @@ header{
 	margin-bottom: 15px;
 }
 
+#main-logo{
+	height: 80px;
+	width: 80px;
+	margin-right: 10px;
+}
+
 .logo{
 	height: 80px;
 	width: 80px;
